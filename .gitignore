@@ -10,3 +10,16 @@ data/
 dist/
 results-parsed/
 results-raw/
+
+# Isolated research pilot: no accounts, research data, logs or runtime in Git.
+.venv/
+.pytest_cache/
+tmp/
+outputs/
+logs/
+*.log
+*.db*
+.env
+.env.*
+cookies*.json
+*credentials*.json

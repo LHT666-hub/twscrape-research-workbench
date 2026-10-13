@@ -1,5 +1,7 @@
 # twscrape
 
+> **Research fork / 研究试验版**：新增的逐页落盘、末端证据、日期校验、独立账号与TXT导出说明见 [RESEARCH_README.md](RESEARCH_README.md)。上游版权与MIT许可证保留；本试验不代表已经实测更快或平台全量。The research pilot adds a separate module; upstream code below is preserved.
+
 <div align="center">
 
 [<img src="https://badges.ws/pypi/v/twscrape" alt="version" />](https://pypi.org/project/twscrape)
